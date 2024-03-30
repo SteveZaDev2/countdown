@@ -17,7 +17,23 @@ let defaultOccasions = [
     utc: "",
     landscapeImg:  './img/beach.jpg',
     portraitImg:  './img/garden.jpg',
-    color: 'white'}     
+    color: 'white'},  
+    {occ: "Start of Eclipse",
+    date: "April 8 2024",
+    time: 14,
+    mins: 10, 
+    utc: "",
+    landscapeImg:  'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Famesastronomers.com%2Fgallery%2Fvar%2Falbums%2FRick-Whitten%2Feclipse.jpg%3Fm%3D1384701458&f=1&nofb=1&ipt=563c1168fec261921bf3b2cade76d4efb90a7e6b86315a8577a9bab0748b91c2&ipo=images',
+    portraitImg:  'https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fstrangesounds.org%2Fwp-content%2Fuploads%2F2018%2F02%2Fpartial-solar-eclipse-february-15-2018-1.jpg&f=1&nofb=1&ipt=8881e755fd80c4546195a908750297ead49b4572af10c3d95f0c06e1e47f267b&ipo=images',
+    color: 'white'},   
+    {occ: "Eclipse Maximum",
+    date: "April 8 2024",
+    time: 15,
+    mins: 25, 
+    utc: "",
+    landscapeImg:  'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.bemmaismulher.com%2Fcontent%2Fuploads%2F2017%2F08%2Feclipse-768x572.jpg&f=1&nofb=1&ipt=b886c47edbe89c4fb6dd8876107cce494b114effb60b18d01fe85916ed014309&ipo=images',
+    portraitImg:  'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhypescience.com%2Fwp-content%2Fuploads%2F2017%2F08%2Ffotos-eclipse-4.jpg&f=1&nofb=1&ipt=41524f7866f08ea2cf13a8ec190bca19be0736dd57132cb15acf053240739b8c&ipo=images',
+    color: 'white'}    
 ]
 
 
